@@ -1,0 +1,21 @@
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\bin\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.exe
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\bin\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.deps.json
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\bin\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.runtimeconfig.json
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\bin\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.dll
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\bin\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.pdb
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\obj\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.csproj.AssemblyReference.cache
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\obj\Debug\net6.0-windows\Aplikasi_Kamera_PBBK_D.Form1.resources
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\obj\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.csproj.GenerateResource.cache
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\obj\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\obj\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.AssemblyInfoInputs.cache
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\obj\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.AssemblyInfo.cs
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\obj\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.csproj.CoreCompileInputs.cache
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\obj\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.csproj.CopyComplete
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\obj\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.dll
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\obj\Debug\net6.0-windows\refint\Aplikasi Kamera_PBBK D.dll
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\obj\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.pdb
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\obj\Debug\net6.0-windows\Aplikasi Kamera_PBBK D.genruntimeconfig.cache
+C:\Users\surya\source\repos\Aplikasi Kamera_PBBK D\Aplikasi Kamera_PBBK D\obj\Debug\net6.0-windows\ref\Aplikasi Kamera_PBBK D.dll
