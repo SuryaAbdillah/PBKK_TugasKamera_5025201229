@@ -222,6 +222,19 @@ videoSource = new VideoCaptureDevice();
         }
 ```
 
+## Hasil
+
+> Memilih kamera yang ingin digunakan
+
+![image](https://user-images.githubusercontent.com/97737970/223658931-9ca761d8-626e-40b5-af54-630fd5b061a4.png)
+
+> Testing kamera
+
+![image](https://user-images.githubusercontent.com/97737970/223659172-97631a5b-36dc-40ab-aa58-2b9434881081.png)
+
+> Save Image
+
+![uji coba_program kamera](https://user-images.githubusercontent.com/97737970/223659356-e22d7a1f-722d-420c-a6f5-d993c5083359.png)
 
 ## Referensi
 https://www.youtube.com/watch?v=HUiV10g1VLU
